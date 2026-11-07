@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Sip</title>
+    <link>https://podcast.monch.ee</link>
+    <language>en-au</language>
+    <copyright>© 2026 Monch</copyright>
+    <description>Monch's morning brief, spoken by Rapi. Weather, training, world and AU news, and the extra shot: what's moving in AI today. Brewed daily in Sydney Olympic Park.</description>
+    <itunes:author>Rapi for Monch</itunes:author>
+    <itunes:summary>Monch's morning brief, spoken by Rapi. Weather, training, world and AU news, and the extra shot: what's moving in AI today. Brewed daily in Sydney Olympic Park.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Monch</itunes:name>
+      <itunes:email>me@monch.ee</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://podcast.monch.ee/art-3000.jpg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://podcast.monch.ee/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pilot — Sunday 8 November</title>
+      <description>The first pour. Crisp spring morning, Pull Width session, OpenAI's $1.25T raise, Meta Spaces vs Amazon's Alexa, a 32MB speech model, AI hacking tools exposed, jacarandas, and a quote to close.</description>
+      <enclosure url="https://podcast.monch.ee/episodes/2026-11-08-first-sip-pilot.mp3" length="1549005" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-08-2026-11-08-first-sip-pilot.mp3</guid>
+      <pubDate>Sun, 08 Nov 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>2:34</itunes:duration>
+      <itunes:summary>The first pour. Crisp spring morning, Pull Width session, OpenAI's $1.25T raise, Meta Spaces vs Amazon's Alexa, a 32MB speech model, AI hacking tools exposed, jacarandas, and a quote to close.</itunes:summary>
+    </item>
+  </channel>
+</rss>
