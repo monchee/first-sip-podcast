@@ -19,12 +19,12 @@
     <atom:link href="https://podcast.monch.ee/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Pilot — Sunday 8 November</title>
-      <description>The first pour. Crisp spring morning, Pull Width session, Alex Eala's title run, UP vs Ateneo, jacarandas, OpenAI's $1.25T raise, Meta Spaces vs Alexa, a 32MB speech model, an AI tip, and OzBargain's Alan Wake at $1.75.</description>
-      <enclosure url="https://podcast.monch.ee/episodes/2026-11-08-pilot.mp3" length="1620525" type="audio/mpeg"/>
+      <description>The full-format first pour: spring weather, Pull Width, PH sport (Eala, UP vs Ateneo), the Extra Shot on AI, gear watch, GTA 6 leaks, the fare radar (Seishun 18 + Qantas to Tokyo), bargain corner, and a quote to close.</description>
+      <enclosure url="https://podcast.monch.ee/episodes/2026-11-08-pilot.mp3" length="2096205" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-11-08-2026-11-08-pilot.mp3</guid>
       <pubDate>Sun, 08 Nov 2026 17:15:00 +0000</pubDate>
-      <itunes:duration>2:42</itunes:duration>
-      <itunes:summary>The first pour. Crisp spring morning, Pull Width session, Alex Eala's title run, UP vs Ateneo, jacarandas, OpenAI's $1.25T raise, Meta Spaces vs Alexa, a 32MB speech model, an AI tip, and OzBargain's Alan Wake at $1.75.</itunes:summary>
+      <itunes:duration>3:29</itunes:duration>
+      <itunes:summary>The full-format first pour: spring weather, Pull Width, PH sport (Eala, UP vs Ateneo), the Extra Shot on AI, gear watch, GTA 6 leaks, the fare radar (Seishun 18 + Qantas to Tokyo), bargain corner, and a quote to close.</itunes:summary>
     </item>
   </channel>
 </rss>
