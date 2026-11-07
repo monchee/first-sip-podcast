@@ -43,7 +43,7 @@ for ep in sorted(meta["episodes"], key=lambda e: e["date"], reverse=True):
 xml = f'''<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>First Sip</title>
+    <title>The First Sip</title>
     <link>{SITE}</link>
     <language>en-au</language>
     <copyright>© {datetime.now().year} Monch</copyright>
