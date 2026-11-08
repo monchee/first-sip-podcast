@@ -2,6 +2,79 @@
   "show": "The First Sip",
   "episodes": [
     {
+      "date": "2026-11-09",
+      "file": "2026-11-09-first-sip.mp3",
+      "title": "Monday 9 November",
+      "description": "New week, fresh pour: quiet calendar, clear roads to RPAH, and quads on the menu. The Extra Shot takes on Suno's Elvis-and-Eminem lawsuit, Anthropic automating AI development, and speedrunners already breaking the Ocarina of Time remake.",
+      "links": [
+        {
+          "section": "Around the world",
+          "title": "Surfing legends make history in Siargao (WSL at Cloud 9)",
+          "url": "https://www.rappler.com/sports/homestretch-surfing-legends-make-history-siargao-cloud-9-world-surf-league/"
+        },
+        {
+          "section": "Around the world",
+          "title": "Alex Eala falls in Hong Kong Open final",
+          "url": "https://www.rappler.com/people/athletes/alex-eala-claire-liu-tennis-hong-kong-open-final-november-8-2026/"
+        },
+        {
+          "section": "Around the world",
+          "title": "Hot fridges, a fake nuclear alert and a $6bn heist: the hacking epidemic",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Elvis and Eminem rights holders sue Suno",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Report on Anthropic automating AI development alarms researchers",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "The US let Nvidia sell chips to an empty office in China",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Speedrunners already breaking the Ocarina of Time remake",
+          "url": "https://www.polygon.com/ocarina-of-time-remake-speedrunning-actor-jumping/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Godzilla Minus Zero breaks foreign-language opening record",
+          "url": "https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Tesla to pull the plug on the Cybertruck",
+          "url": "https://www.rappler.com/technology/tesla-ending-cybertruck-years-poor-sales/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "M5 MacBook Air at lowest price since July",
+          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Starlink residential 30% off — from $52.50/mo (select areas)",
+          "url": "https://www.ozbargain.com.au/node/982171"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Retroid Pocket Duo Lite 6+64 — A$202.41 delivered",
+          "url": "https://www.ozbargain.com.au/node/982155"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "96x Ibuprofen + 10x Loratadine — $14.99 delivered",
+          "url": "https://www.ozbargain.com.au/node/982149"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "file": "2026-11-08-pilot.mp3",
       "title": "Pilot — Sunday 8 November",

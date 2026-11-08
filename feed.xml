@@ -18,6 +18,16 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://podcast.monch.ee/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Monday 9 November</title>
+      <description>New week, fresh pour: quiet calendar, clear roads to RPAH, and quads on the menu. The Extra Shot takes on Suno's Elvis-and-Eminem lawsuit, Anthropic automating AI development, and speedrunners already breaking the Ocarina of Time remake.</description>
+      <link>https://podcast.monch.ee/episodes/2026-11-09.html</link>
+      <enclosure url="https://podcast.monch.ee/episodes/2026-11-09-first-sip.mp3" length="2803005" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-09-2026-11-09-first-sip.mp3</guid>
+      <pubDate>Mon, 09 Nov 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>4:40</itunes:duration>
+      <itunes:summary>New week, fresh pour: quiet calendar, clear roads to RPAH, and quads on the menu. The Extra Shot takes on Suno's Elvis-and-Eminem lawsuit, Anthropic automating AI development, and speedrunners already breaking the Ocarina of Time remake.</itunes:summary>
+    </item>
+    <item>
       <title>Pilot — Sunday 8 November</title>
       <description>The full-format first pour: spring weather, Pull Width, PH sport (Eala, UP vs Ateneo), the Extra Shot on AI, gear watch, GTA 6 leaks, the fare radar (Seishun 18 + Qantas to Tokyo), bargain corner, and a quote to close.</description>
       <link>https://podcast.monch.ee/episodes/2026-11-08.html</link>
