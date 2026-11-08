@@ -5,7 +5,39 @@
       "date": "2026-11-08",
       "file": "2026-11-08-pilot.mp3",
       "title": "Pilot — Sunday 8 November",
-      "description": "The full-format first pour: spring weather, Pull Width, PH sport (Eala, UP vs Ateneo), the Extra Shot on AI, gear watch, GTA 6 leaks, the fare radar (Seishun 18 + Qantas to Tokyo), bargain corner, and a quote to close."
+      "description": "The full-format first pour: spring weather, Pull Width, PH sport (Eala, UP vs Ateneo), the Extra Shot on AI, gear watch, GTA 6 leaks, the fare radar (Seishun 18 + Qantas to Tokyo), bargain corner, and a quote to close.",
+      "links": [
+        {
+          "section": "Around the world",
+          "title": "Sydney jacarandas photo essay",
+          "url": "https://www.theguardian.com/australia-news/gallery/2026/nov/05/let-a-thousand-blossoms-bloom-sydneys-jacarandas-put-on-their-spring-show-in-pictures"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "OpenAI raises $11B at $1.25T valuation",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Hundreds of AI hacking tools exposed",
+          "url": "https://techcrunch.com/2026/11/07/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/"
+        },
+        {
+          "section": "Fare radar",
+          "title": "Seishun 18: 5-day JR pass ~A$110",
+          "url": "https://www.ozbargain.com.au/node/982008"
+        },
+        {
+          "section": "Fare radar",
+          "title": "Qantas Points Planes: SYD-Tokyo business from 82.1k",
+          "url": "https://www.ozbargain.com.au/node/981886"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Alan Wake 90% off — $1.75 @ GOG",
+          "url": "https://www.ozbargain.com.au/node/982068"
+        }
+      ]
     }
   ]
 }
