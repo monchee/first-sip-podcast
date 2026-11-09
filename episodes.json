@@ -2,6 +2,74 @@
   "show": "The First Sip",
   "episodes": [
     {
+      "date": "2026-11-10",
+      "file": "2026-11-10-first-sip.mp3",
+      "title": "Tuesday 10 November",
+      "description": "Clear and cold at ten degrees, a rest day on the cut, and a crash on the M4 eastbound to dodge on the way to RPAH. The Extra Shot pours over Nvidia's Jensen Huang story, Apple's agentic Siri push, and GTA 6: The Festival.",
+      "links": [
+        {
+          "section": "The drive",
+          "title": "M4 eastbound crash at Greystanes — Live Traffic NSW",
+          "url": "https://www.livetraffic.com/incident-list"
+        },
+        {
+          "section": "Around the world",
+          "title": "Alex Eala hits career-high world No. 15 (Rappler)",
+          "url": "https://www.rappler.com/people/athletes/alex-eala-world-ranking-november-2026/"
+        },
+        {
+          "section": "Around the world",
+          "title": "Senators urge state of calamity in Super El Niño areas (Rappler)",
+          "url": "https://www.rappler.com/philippines/senators-urge-marcos-jr-declare-state-calamity-super-el-nino-affected-areas/"
+        },
+        {
+          "section": "Around the world",
+          "title": "How David Jones collapsed — Full Story podcast (Guardian Australia)",
+          "url": "https://www.theguardian.com/australia-news/audio/2026/nov/09/very-slowly-then-all-at-once-how-david-jones-collapsed-full-story-podcast"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Jensen Huang affair report puts Nvidia's China ties under scrutiny (The Verge)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Apple is racing to make Siri more agentic (The Verge)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Disney and Adobe are building generative AI tools together (The Verge)",
+          "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "GTA 6: The Festival officially announced (Polygon)",
+          "url": "https://www.polygon.com/gta-6-festival-tickets-announcement/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Instagram's AI age detection is expanding globally (The Verge)",
+          "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "AliExpress 11.11 PayPal codes — US$15 off $100 up to US$45 off $360",
+          "url": "https://www.ozbargain.com.au/node/982279"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "CUSU 1TB PCIe 3.0 NVMe SSD — ~A$141.55 delivered",
+          "url": "https://www.ozbargain.com.au/node/982275"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Vittoria Freeze Dried Classic Coffee 400g — $19.50 @ Coles",
+          "url": "https://www.ozbargain.com.au/node/982259"
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "file": "2026-11-09-first-sip.mp3",
       "title": "Monday 9 November",
