@@ -18,6 +18,16 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://podcast.monch.ee/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Wednesday 11 November</title>
+      <description>Drizzle at sixteen, delts and arms on the cut, and a quiet run to Central Sydney Immunology for hump day. The Extra Shot pours over Gemini 4 Carbon's agent swarms, ChatGPT's verified Business Agents, and eBay slamming the door on shopping bots.</description>
+      <link>https://podcast.monch.ee/episodes/2026-11-11.html</link>
+      <enclosure url="https://podcast.monch.ee/episodes/2026-11-11-first-sip.mp3" length="3697725" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-11-2026-11-11-first-sip.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>6:09</itunes:duration>
+      <itunes:summary>Drizzle at sixteen, delts and arms on the cut, and a quiet run to Central Sydney Immunology for hump day. The Extra Shot pours over Gemini 4 Carbon's agent swarms, ChatGPT's verified Business Agents, and eBay slamming the door on shopping bots.</itunes:summary>
+    </item>
+    <item>
       <title>Tuesday 10 November</title>
       <description>Clear and cold at ten degrees, a rest day on the cut, and a crash on the M4 eastbound to dodge on the way to RPAH. The Extra Shot pours over Nvidia's Jensen Huang story, Apple's agentic Siri push, and GTA 6: The Festival.</description>
       <link>https://podcast.monch.ee/episodes/2026-11-10.html</link>

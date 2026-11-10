@@ -2,6 +2,89 @@
   "show": "The First Sip",
   "episodes": [
     {
+      "date": "2026-11-11",
+      "file": "2026-11-11-first-sip.mp3",
+      "title": "Wednesday 11 November",
+      "description": "Drizzle at sixteen, delts and arms on the cut, and a quiet run to Central Sydney Immunology for hump day. The Extra Shot pours over Gemini 4 Carbon's agent swarms, ChatGPT's verified Business Agents, and eBay slamming the door on shopping bots.",
+      "links": [
+        {
+          "section": "The drive",
+          "title": "Live Traffic NSW — incident list",
+          "url": "https://www.livetraffic.com/incident-list"
+        },
+        {
+          "section": "Around the world",
+          "title": "LIVE UPDATES: Impeachment trial of VP Sara Duterte (Rappler)",
+          "url": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/"
+        },
+        {
+          "section": "Around the world",
+          "title": "Caidic praises UE Red Warriors' fight (Rappler)",
+          "url": "https://www.rappler.com/people/athletes/allan-caidic-praises-ue-red-warriors-fight-lost-culture-pride/"
+        },
+        {
+          "section": "Around the world",
+          "title": "Is progressive Victoria about to vote for One Nation? (Guardian Full Story)",
+          "url": "https://www.theguardian.com/australia-news/audio/2026/nov/10/is-progressive-victoria-about-to-vote-for-one-nation-full-story-podcast"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Google releases Gemini 4 Carbon with agent 'swarm' (The Verge)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "ChatGPT is getting verified AI Business Agents (The Verge)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "eBay appears to have shut the door on third-party AI agents (The Verge)",
+          "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Anthropic targets $1.4 trillion IPO (The Verge)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Google's Pixel Tag tracker is now available (The Verge)",
+          "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "PS Plus November lineup includes Death Stranding 2 (Polygon)",
+          "url": "https://www.polygon.com/ps-plus-game-catalog-november-2026-update-death-stranding-2/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Ableton Live 13 announced (The Verge)",
+          "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Locating the source of a mysterious beep with Claude (Simon Willison)",
+          "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Logitech MX Keys S $94 (RRP $229) @ Amazon AU",
+          "url": "https://www.ozbargain.com.au/node/982456"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Samsung Galaxy Buds2 ANC $79 @ BIG W (in-store)",
+          "url": "https://www.ozbargain.com.au/node/982455"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Firefox built-in VPN free through January 2027",
+          "url": "https://www.ozbargain.com.au/node/982426"
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "file": "2026-11-10-first-sip.mp3",
       "title": "Tuesday 10 November",
