@@ -78,7 +78,6 @@ li{{margin:.35rem 0}} a{{color:#b3541e}} .foot{{margin-top:2rem;font-size:.8rem;
 <p class="foot">Brewed daily in Sydney Olympic Park \u00b7 <a href="/">feed</a></p></body></html>"""
 for ep in meta["episodes"]:
     links = ep.get("links") or []
-    if not links: continue
     sections = {}
     for l in links:
         sections.setdefault(l.get("section", "Links"), []).append(l)
