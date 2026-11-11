@@ -18,6 +18,16 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://podcast.monch.ee/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Thursday 12 November</title>
+      <description>A postcard spring morning and a quiet Camperdown calendar. The Extra Shot leads with Google DeepMind's AlphaGenome 2 for immunology watchers, plus Google Tabletop, the EU Digital Fairness Act's loot-box swing, and PASA's 2.1M-peso capital return. Pollen note for the snuffly, a hinge-habit fitness tip, and a quote to close: hinge today, stand taller all week.</description>
+      <link>https://podcast.monch.ee/episodes/2026-11-12.html</link>
+      <enclosure url="https://podcast.monch.ee/episodes/2026-11-12-first-sip.mp3" length="3067005" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-12-2026-11-12-first-sip.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>5:06</itunes:duration>
+      <itunes:summary>A postcard spring morning and a quiet Camperdown calendar. The Extra Shot leads with Google DeepMind's AlphaGenome 2 for immunology watchers, plus Google Tabletop, the EU Digital Fairness Act's loot-box swing, and PASA's 2.1M-peso capital return. Pollen note for the snuffly, a hinge-habit fitness tip, and a quote to close: hinge today, stand taller all week.</itunes:summary>
+    </item>
+    <item>
       <title>Wednesday 11 November</title>
       <description>Drizzle at sixteen, delts and arms on the cut, and a quiet run to Central Sydney Immunology for hump day. The Extra Shot pours over Gemini 4 Carbon's agent swarms, ChatGPT's verified Business Agents, and eBay slamming the door on shopping bots.</description>
       <link>https://podcast.monch.ee/episodes/2026-11-11.html</link>
