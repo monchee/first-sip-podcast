@@ -18,10 +18,10 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://podcast.monch.ee/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Weekday 13 November</title>
+      <title>Friday 13 November</title>
       <description>Overcast sixteen turning warm with a three-in-four chance of rain, a rest day on the cut, and a clean run to RPAH. The Extra Shot pours over Jensen Huang's confirmed Nvidia exit, Anthropic's IPO roadshow, and Google's new Decisions API - plus pollen sits low, the calendar sits empty, and the bargains run from free cheeseburgers to a price-beat Switch 2.</description>
       <link>https://podcast.monch.ee/episodes/2026-11-13.html</link>
-      <enclosure url="https://podcast.monch.ee/episodes/2026-11-13-first-sip.mp3" length="2918925" type="audio/mpeg"/>
+      <enclosure url="https://podcast.monch.ee/episodes/2026-11-13-first-sip.mp3" length="2920125" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-11-13-2026-11-13-first-sip.mp3</guid>
       <pubDate>Fri, 13 Nov 2026 17:15:00 +0000</pubDate>
       <itunes:duration>4:51</itunes:duration>
