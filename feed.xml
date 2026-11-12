@@ -18,6 +18,16 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://podcast.monch.ee/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Weekday 13 November</title>
+      <description>Overcast sixteen turning warm with a three-in-four chance of rain, a rest day on the cut, and a clean run to RPAH. The Extra Shot pours over Jensen Huang's confirmed Nvidia exit, Anthropic's IPO roadshow, and Google's new Decisions API - plus pollen sits low, the calendar sits empty, and the bargains run from free cheeseburgers to a price-beat Switch 2.</description>
+      <link>https://podcast.monch.ee/episodes/2026-11-13.html</link>
+      <enclosure url="https://podcast.monch.ee/episodes/2026-11-13-first-sip.mp3" length="2918925" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-13-2026-11-13-first-sip.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 17:15:00 +0000</pubDate>
+      <itunes:duration>4:51</itunes:duration>
+      <itunes:summary>Overcast sixteen turning warm with a three-in-four chance of rain, a rest day on the cut, and a clean run to RPAH. The Extra Shot pours over Jensen Huang's confirmed Nvidia exit, Anthropic's IPO roadshow, and Google's new Decisions API - plus pollen sits low, the calendar sits empty, and the bargains run from free cheeseburgers to a price-beat Switch 2.</itunes:summary>
+    </item>
+    <item>
       <title>Thursday 12 November</title>
       <description>A postcard spring morning and a quiet Camperdown calendar. The Extra Shot leads with Google DeepMind's AlphaGenome 2 for immunology watchers, plus Google Tabletop, the EU Digital Fairness Act's loot-box swing, and PASA's 2.1M-peso capital return. Pollen note for the snuffly, a hinge-habit fitness tip, and a quote to close: hinge today, stand taller all week.</description>
       <link>https://podcast.monch.ee/episodes/2026-11-12.html</link>

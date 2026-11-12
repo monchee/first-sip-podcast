@@ -2,6 +2,84 @@
   "show": "The First Sip",
   "episodes": [
     {
+      "date": "2026-11-13",
+      "file": "2026-11-13-first-sip.mp3",
+      "title": "Weekday 13 November",
+      "description": "Overcast sixteen turning warm with a three-in-four chance of rain, a rest day on the cut, and a clean run to RPAH. The Extra Shot pours over Jensen Huang's confirmed Nvidia exit, Anthropic's IPO roadshow, and Google's new Decisions API - plus pollen sits low, the calendar sits empty, and the bargains run from free cheeseburgers to a price-beat Switch 2.",
+      "links": [
+        {
+          "section": "The drive",
+          "title": "Live Traffic NSW - incident list",
+          "url": "https://www.livetraffic.com/incident-list"
+        },
+        {
+          "section": "Around the world",
+          "title": "Beau Lamarre-Condon takes the stand (Guardian Full Story)",
+          "url": "https://www.theguardian.com/australia-news/audio/2026/nov/12/beau-lamarre-condon-takes-the-stand-full-story-podcast"
+        },
+        {
+          "section": "Around the world",
+          "title": "World leaders set out clashing priorities as COP31 turns to negotiations (Rappler)",
+          "url": "https://www.rappler.com/world/global-affairs/leaders-clashing-priorities-cop31-negotiations-november-12-2026/"
+        },
+        {
+          "section": "Around the world",
+          "title": "Art exhibit raises funds for Banaue's Good News Clinic and Hospital (Rappler)",
+          "url": "https://www.rappler.com/bulletin-board/events/art-exhibit-raises-funds-good-news-clinic-hospital-banaue-ifugao/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Nvidia CEO Jensen Huang steps down in big blow to AI boom (Rappler)",
+          "url": "https://www.rappler.com/technology/nvidia-ceo-jensen-huang-steps-down-november-12-2026/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "The Jensen Huang scandal is hardly over (The Verge)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Anthropic's IPO roadshow video (Simon Willison)",
+          "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Gemini Decisions API (Simon Willison)",
+          "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "AI chatbots are recommending fake retail websites, study finds (The Verge)",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Microsoft Outlook is down (The Verge)",
+          "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down"
+        },
+        {
+          "section": "The Extra Shot",
+          "title": "Google Wallet can finally unlock doors with digital home keys (The Verge)",
+          "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Trolli 1kg bulk bags $6 @ Amazon AU",
+          "url": "https://www.ozbargain.com.au/node/982842"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Free Hungry Jack's Cheeseburger (NBL Round 9)",
+          "url": "https://www.ozbargain.com.au/node/982837"
+        },
+        {
+          "section": "Bargain corner",
+          "title": "Nintendo Switch 2 Sports Resort bundle $739 Big W / $702.05 Officeworks price beat",
+          "url": "https://www.ozbargain.com.au/node/982805"
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "file": "2026-11-12-first-sip.mp3",
       "title": "Thursday 12 November",
